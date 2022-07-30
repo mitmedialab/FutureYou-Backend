@@ -1,3 +1,6 @@
 [submodule "first-order-model"]
 	path = FirstOrderModel
 	url = https://github.com/AliaksandrSiarohin/first-order-model.git
+[submodule "SAM"]
+	path = SAM
+	url = https://github.com/yuval-alaluf/SAM.git
