@@ -4,3 +4,6 @@
 [submodule "SAM"]
 	path = SAM
 	url = https://github.com/yuval-alaluf/SAM.git
+[submodule "Wav2Lip"]
+	path = Wav2Lip
+	url = https://github.com/Rudrabha/Wav2Lip.git
